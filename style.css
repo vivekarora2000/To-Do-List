@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	background-color: #ffdb4d;
+	font-family: 'Roboto', sans-serif;
+	
+}
+ul{
+font-family: 'Roboto', sans-serif;
+font-size: 25px;
+text-align: center;
+list-style: inside;
+}
+
+#enter{
+	border-radius: 8px;
+	background-color: #DDE9E9;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	height: 35px;
+	width: 85px;
+}
+
+input{
+	text-align: center;
+	height: 50px;
+	width: 300px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 6px;
+    font-size: 25px;
+}
